@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+    font-size: 32px;
+}
+body{
+    background-color: #da10de;
+    width: 50%;
+    font-size: 3rem;
+}
+.pai{
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 1.5rem;
+}
+.filha{
+    background-color: #1de9d6;
+    width: 50%;
+    font-size: 0.5rem;
+}
